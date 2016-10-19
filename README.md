@@ -6,6 +6,7 @@ The Orchid nsurance Test api
 
 ```
 git clone
+cd orchidinsurancetest
 npm install 
 npm install jasmine-node -g
 ```
