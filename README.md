@@ -1,6 +1,6 @@
 ## Orchid Insurance Test API
 
-The orchid insurance Test api
+The Orchid Insurance Test api
 
 ## Installation
 
