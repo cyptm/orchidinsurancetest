@@ -7,7 +7,7 @@ var bodyParser = require('body-parser');
 var app = express();
 app.use(bodyParser.json());
 
-require('./routes/bookmarks.js')(app);
+require('./server/routes/bookmarks.js')(app);
 
 // API root
 app.get('/', function(req, res) {
