@@ -1,10 +1,11 @@
 ## Orchid Insurance Test API
 
-The Orchid Insurance Test api
+The Orchid nsurance Test api
 
 ## Installation
 
 ```
+git clone
 npm install 
 npm install jasmine-node -g
 ```
@@ -19,5 +20,10 @@ npm test
 
 To start the server:
 ```
-npm start
+npm start 
+```
+or
+
+```
+node server.js
 ```
