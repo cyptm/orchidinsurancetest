@@ -1,0 +1,20 @@
+{
+  "name": "OrchidInsuranceTestApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "jasmine-node spec"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",    
+    "express": "4.13.x",
+    "basic-auth": "1.0.4",
+    "promisify-node": "0.4.0",
+    "sinon": "1.17.6",
+    "jasmine-node": "1.14.5"
+  },
+  "engines": {
+    "node": "4.2.x"
+  }
+}
